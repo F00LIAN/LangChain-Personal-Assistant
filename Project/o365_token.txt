@@ -1,0 +1,13 @@
+{
+ "token_type": "Bearer",
+ "scope": [
+  "https://graph.microsoft.com/MailboxSettings.ReadWrite",
+  "https://graph.microsoft.com/Calendars.ReadWrite",
+  "https://graph.microsoft.com/Mail.ReadWrite",
+  "https://graph.microsoft.com/Mail.Send"
+ ],
+ "expires_in": 3600,
+ "ext_expires_in": 3600,
+ "access_token": "EwBwA8l6BAAUAOyDv0l6PcCVu89kmzvqZmkWABkAAa0OJCg90HLMnkjAoD8GRsKkaBfw6nHjeHLqlTqqj/WYbdSXRMCyTYJmxSsdIw6pKpNkq9KncsB2d5c+804NiKdtiyU/qECooLvRS6WxvvFtz1iR52iAoFpp3fLScUODOfoSGeY0Y3+9pM6tLWd9yLJ/NTgBqThgSHxB1UYIX0hi+NM6SybNE6QzYE0DTy7EkCPaQ14xoWjS2rCodpdVrSxcz+GlCALMzaGued+CHx4AeX8CA/FbHxLFavOOCsD1jn04O1u1d3kjgYJi9G0vuJ9zJ7ea/tU1byVcq72gPCD2/ogPZnyuPN5xcbXFRfwDBjTtWSphcdfcmFMx5dM8J08DZgAACLSlCUQrbtIJQAKsLVHx8AIlIcJgfNLxSjyHsQC29o/UIw6e8kTTzOwko0f/xSlrTcFOYU65uufj76MmibuYzJonTvSXvOeQcpvecCHAFW26QUoIiBaPD5YePusdDrjjHkBJxElP2v2OGcUHCREJb0QTSyFt5sDQtnhtqBgSaj4Bv7diS0ld3WVwDxelq7iBlg0uSt/B31mPRzfsvkA7hVg8FHOBTx+INyBmtKcz8zts6DgJktY+2SmEmIsCAWD4sD+DW4c+jspJqAIhrfU2f4AWo//GD3w+FtbjaW7He0+FSlmOwGbML/PvsXcXJbwQRWbqGQKWIecQf4jHrWgTEashA+z3cstLnQTKa5HoWWvW/75UYkwQTX4xavoEFfjnraqeHQ7ew0oBOfjIBmWCTaBrSJe+UPhUk3STjcrrHA02HwViE638Chxj/LeJwO7iZHHynItKqrPMlUPbb1h//TOXW9q6otQmlvmdN9vTAK7BaQ4U0YNagK4bnwui8XR0r9D94YY2GDcQJ++tU4/Zy8aUc8S+m0du5kRmzFuPcsNvDChp5SWyD7OyN9w/VxSXvS8TPflJ+Y2Qr1N44ji9nv8Xo+6XOqZv+xr+uclof18MpQEwJ7yO7vGXrrFbS121IgRPDsmCgZiCaD/dBE83gGJqvFVMZRGZY45Zp/t3kdG+XOsUsNKeX2pjUb7MjdxN4ar/vS0gTQ6Rm4vLTv8C8qgFU4fG5AaGeGAyy1FFdrg6BwdNotnIzgUOoNqh7iImRKKb2dg0LSaXimaAAg==",
+ "expires_at": 1689445878.6284935
+}

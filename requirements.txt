@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+openai
+twilio
+wikipedia
+python-decouple
+psycopg2-binary
+python-multipart
+pyngrok
+sqlalchemy
+decouple
+pymysql
+pydantic
